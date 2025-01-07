@@ -1,0 +1,827 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1736237287
+icon.svg::CompressedTexture2D::6173442369385888660::1736235859::1736235866::1::::<><>::
+::res://assets/::1736235918
+transparentLight22.png::CompressedTexture2D::7460826656782251054::1389195102::1736235918::1::::<><>::
+transparentLight23.png::CompressedTexture2D::843347627397214256::1389195102::1736235918::1::::<><>::
+transparentLight24.png::CompressedTexture2D::4414168695454605338::1389195102::1736235918::1::::<><>::
+::res://assets/background/::1735915002
+::res://assets/background/NatureBackground/::1735915002
+::res://assets/background/NatureBackground/nature_1/::1736235933
+1.png::CompressedTexture2D::6276164184695606875::1677751344::1736235933::1::::<><>::
+2.png::CompressedTexture2D::1696846483674008759::1677752738::1736235933::1::::<><>::
+3.png::CompressedTexture2D::7824806588008619442::1677751384::1736235933::1::::<><>::
+5.png::CompressedTexture2D::1375106112700790205::1677751438::1736235933::1::::<><>::
+6.png::CompressedTexture2D::1779796617391068531::1677751446::1736235933::1::::<><>::
+7.png::CompressedTexture2D::3807556141334552812::1677751456::1736235933::1::::<><>::
+8.png::CompressedTexture2D::317386172025373423::1677751508::1736235933::1::::<><>::
+10.png::CompressedTexture2D::5042264465107255916::1677754294::1736235933::1::::<><>::
+orig.png::CompressedTexture2D::2310293922815843887::1677751538::1736235933::1::::<><>::
+origbig.png::CompressedTexture2D::47991303302731800::1677751554::1736235933::1::::<><>::
+::res://assets/background/NatureBackground/nature_2/::1736235933
+1.png::CompressedTexture2D::7962141109800752308::1677751706::1736235933::1::::<><>::
+2.png::CompressedTexture2D::6171486072307840254::1677751718::1736235933::1::::<><>::
+3.png::CompressedTexture2D::3274040808453402483::1677751726::1736235933::1::::<><>::
+4.png::CompressedTexture2D::1817182964333697199::1677751734::1736235933::1::::<><>::
+orig.png::CompressedTexture2D::7353686670232088244::1677751744::1736235933::1::::<><>::
+origbig.png::CompressedTexture2D::8129653404478776850::1677751752::1736235933::1::::<><>::
+::res://assets/background/NatureBackground/nature_3/::1736235933
+1.png::CompressedTexture2D::6568360065599173607::1677751844::1736235933::1::::<><>::
+2.png::CompressedTexture2D::7888047524475068608::1677751858::1736235933::1::::<><>::
+3.png::CompressedTexture2D::8436396757292969176::1677751872::1736235933::1::::<><>::
+4.png::CompressedTexture2D::6361980209092274121::1677751894::1736235933::1::::<><>::
+orig.png::CompressedTexture2D::3779271520695670307::1677751912::1736235933::1::::<><>::
+origbig.png::CompressedTexture2D::4275007528830297571::1677751920::1736235933::1::::<><>::
+::res://assets/background/NatureBackground/nature_4/::1736235933
+1.png::CompressedTexture2D::3609705924773240780::1677752022::1736235932::1::::<><>::
+2.png::CompressedTexture2D::4780674439710826228::1677752032::1736235932::1::::<><>::
+3.png::CompressedTexture2D::2574001597976616054::1677752042::1736235932::1::::<><>::
+4.png::CompressedTexture2D::5326060750681553980::1677752052::1736235932::1::::<><>::
+orig.png::CompressedTexture2D::5885409930652723214::1677752076::1736235932::1::::<><>::
+origbig.png::CompressedTexture2D::4538674050439936717::1677752092::1736235933::1::::<><>::
+::res://assets/background/NatureBackground/nature_5/::1736235933
+1.png::CompressedTexture2D::2425336663715598023::1677752212::1736235932::1::::<><>::
+2.png::CompressedTexture2D::376839580929431934::1677752222::1736235932::1::::<><>::
+3.png::CompressedTexture2D::3736352641705742268::1677752232::1736235932::1::::<><>::
+4.png::CompressedTexture2D::7686610748823154588::1677752242::1736235932::1::::<><>::
+5.png::CompressedTexture2D::7296601921985752699::1677752252::1736235932::1::::<><>::
+orig.png::CompressedTexture2D::3417379274793579966::1677752264::1736235932::1::::<><>::
+origbig.png::CompressedTexture2D::2088808536095605097::1677752274::1736235933::1::::<><>::
+::res://assets/background/NatureBackground/nature_6/::1736235933
+1.png::CompressedTexture2D::8819572298341539555::1677752442::1736235932::1::::<><>::
+2.png::CompressedTexture2D::7096135138001020755::1677752458::1736235932::1::::<><>::
+3.png::CompressedTexture2D::6537408535263505904::1677752470::1736235932::1::::<><>::
+orig.png::CompressedTexture2D::5082778068289372859::1677752486::1736235932::1::::<><>::
+origbig.png::CompressedTexture2D::3682491502506601783::1677752494::1736235933::1::::<><>::
+::res://assets/background/NatureBackground/nature_7/::1736235933
+1.png::CompressedTexture2D::3812327328014539654::1677753022::1736235932::1::::<><>::
+2.png::CompressedTexture2D::4530411373564210915::1677753030::1736235932::1::::<><>::
+orig.png::CompressedTexture2D::8596157398446052042::1677753038::1736235932::1::::<><>::
+origbig.png::CompressedTexture2D::436288169751032801::1677753046::1736235933::1::::<><>::
+::res://assets/background/NatureBackground/nature_8/::1736235935
+1.png::CompressedTexture2D::8255637245294318451::1677753134::1736235934::1::::<><>::
+orig.png::CompressedTexture2D::7925838201681397247::1677753198::1736235934::1::::<><>::
+origbig.png::CompressedTexture2D::5773925143875273446::1677753208::1736235935::1::::<><>::
+::res://assets/fonts/::1736235904
+PixelOperator8-Bold.ttf::FontFile::1097489062836670611::1709828050::1736235904::1::::<><>::
+PixelOperator8.ttf::FontFile::703086459466757848::1709828050::1736235904::1::::<><>::
+::res://assets/music/::1736235904
+time_for_adventure.mp3::AudioStreamMP3::2987378567657468433::1710404612::1736235904::1::::<><>::
+::res://assets/sounds/::1736235947
+coin.wav::AudioStreamWAV::7828332557594666141::1710340390::1736235947::1::::<><>::
+explosion.wav::AudioStreamWAV::4280307360087930445::1710340362::1736235947::1::::<><>::
+hurt.wav::AudioStreamWAV::6656558625191165721::1710340150::1736235947::1::::<><>::
+jump.wav::AudioStreamWAV::8546217840775990885::1710340286::1736235947::1::::<><>::
+left.png::CompressedTexture2D::6513749758722609492::1736057651::1736235934::1::::<><>::
+power_up.wav::AudioStreamWAV::3526521420555548505::1710340480::1736235947::1::::<><>::
+right.png::CompressedTexture2D::3763445344093755939::1736057651::1736235934::1::::<><>::
+tap.wav::AudioStreamWAV::7071008392305653392::1710340164::1736235947::1::::<><>::
+up.png::CompressedTexture2D::4488849170177264469::1736057651::1736235934::1::::<><>::
+::res://assets/sprites/::1736235809
+::res://assets/sprites/3golems/::1735915110
+::res://assets/sprites/3golems/Golem_1/::1735915115
+::res://assets/sprites/3golems/Golem_1/PNG/::1542962052
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/::1542962040
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/::1736235936
+0_Golem_Dying_000.png::CompressedTexture2D::8747008320334802755::1540213838::1736235935::1::::<><>::
+0_Golem_Dying_001.png::CompressedTexture2D::2689072704008400174::1540213838::1736235935::1::::<><>::
+0_Golem_Dying_002.png::CompressedTexture2D::1615351013890271920::1540213838::1736235935::1::::<><>::
+0_Golem_Dying_003.png::CompressedTexture2D::3967929803118793095::1540213838::1736235935::1::::<><>::
+0_Golem_Dying_004.png::CompressedTexture2D::8763652157091370351::1540213838::1736235935::1::::<><>::
+0_Golem_Dying_005.png::CompressedTexture2D::3669213794596119161::1540213838::1736235935::1::::<><>::
+0_Golem_Dying_006.png::CompressedTexture2D::3313368281900679980::1540213838::1736235935::1::::<><>::
+0_Golem_Dying_007.png::CompressedTexture2D::2497874646496621385::1540213840::1736235935::1::::<><>::
+0_Golem_Dying_008.png::CompressedTexture2D::7120276984588409715::1540213840::1736235935::1::::<><>::
+0_Golem_Dying_009.png::CompressedTexture2D::1341348916820880979::1540213840::1736235935::1::::<><>::
+0_Golem_Dying_010.png::CompressedTexture2D::1814197601868374301::1540213840::1736235935::1::::<><>::
+0_Golem_Dying_011.png::CompressedTexture2D::1336175219090749341::1540213840::1736235935::1::::<><>::
+0_Golem_Dying_012.png::CompressedTexture2D::3333228054657501215::1540213840::1736235936::1::::<><>::
+0_Golem_Dying_013.png::CompressedTexture2D::3820659899792352276::1540213840::1736235936::1::::<><>::
+0_Golem_Dying_014.png::CompressedTexture2D::2006258802010940029::1540213840::1736235936::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Falling Down/::1736235936
+0_Golem_Falling Down_000.png::CompressedTexture2D::1961836663197263041::1540213838::1736235936::1::::<><>::
+0_Golem_Falling Down_001.png::CompressedTexture2D::8907137346019415923::1540213838::1736235936::1::::<><>::
+0_Golem_Falling Down_002.png::CompressedTexture2D::4010560394796715504::1540213838::1736235933::1::::<><>::
+0_Golem_Falling Down_003.png::CompressedTexture2D::8903865732987719787::1540213838::1736235933::1::::<><>::
+0_Golem_Falling Down_004.png::CompressedTexture2D::7107259494567234775::1540213838::1736235933::1::::<><>::
+0_Golem_Falling Down_005.png::CompressedTexture2D::1593078650036523096::1540213838::1736235933::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Hurt/::1736235934
+0_Golem_Hurt_000.png::CompressedTexture2D::2074326625256507558::1540213838::1736235933::1::::<><>::
+0_Golem_Hurt_001.png::CompressedTexture2D::2491476326533885026::1540213838::1736235934::1::::<><>::
+0_Golem_Hurt_002.png::CompressedTexture2D::4009435896042968765::1540213838::1736235934::1::::<><>::
+0_Golem_Hurt_003.png::CompressedTexture2D::7632470215686765965::1540213838::1736235934::1::::<><>::
+0_Golem_Hurt_004.png::CompressedTexture2D::1672326442458490554::1540213838::1736235934::1::::<><>::
+0_Golem_Hurt_005.png::CompressedTexture2D::8991727687553957875::1540213838::1736235934::1::::<><>::
+0_Golem_Hurt_006.png::CompressedTexture2D::2849328618623221916::1540213838::1736235934::1::::<><>::
+0_Golem_Hurt_007.png::CompressedTexture2D::1869093202063487632::1540213838::1736235934::1::::<><>::
+0_Golem_Hurt_008.png::CompressedTexture2D::7120369610262012845::1540213838::1736235934::1::::<><>::
+0_Golem_Hurt_009.png::CompressedTexture2D::6514372890356365360::1540213838::1736235934::1::::<><>::
+0_Golem_Hurt_010.png::CompressedTexture2D::1933988485312334495::1540213838::1736235934::1::::<><>::
+0_Golem_Hurt_011.png::CompressedTexture2D::1655897946851107555::1540213838::1736235934::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/::1736235934
+0_Golem_Idle_000.png::CompressedTexture2D::5668481928048093420::1540213826::1736235934::1::::<><>::
+0_Golem_Idle_001.png::CompressedTexture2D::2764539477259990525::1540213826::1736235934::1::::<><>::
+0_Golem_Idle_002.png::CompressedTexture2D::5181113159981596693::1540213826::1736235934::1::::<><>::
+0_Golem_Idle_003.png::CompressedTexture2D::6381166519281943283::1540213826::1736235934::1::::<><>::
+0_Golem_Idle_004.png::CompressedTexture2D::4275135002612719843::1540213826::1736235934::1::::<><>::
+0_Golem_Idle_005.png::CompressedTexture2D::8293663087768942680::1540213826::1736235934::1::::<><>::
+0_Golem_Idle_006.png::CompressedTexture2D::4919419858747472009::1540213826::1736235927::1::::<><>::
+0_Golem_Idle_007.png::CompressedTexture2D::7846911367562053111::1540213826::1736235928::1::::<><>::
+0_Golem_Idle_008.png::CompressedTexture2D::902761511917581613::1540213826::1736235928::1::::<><>::
+0_Golem_Idle_009.png::CompressedTexture2D::8664096521940524187::1540213826::1736235928::1::::<><>::
+0_Golem_Idle_010.png::CompressedTexture2D::7347614016637326458::1540213826::1736235928::1::::<><>::
+0_Golem_Idle_011.png::CompressedTexture2D::7760832628348951516::1540213826::1736235928::1::::<><>::
+0_Golem_Idle_012.png::CompressedTexture2D::593878699969594154::1540213826::1736235928::1::::<><>::
+0_Golem_Idle_013.png::CompressedTexture2D::1355624719505175349::1540213826::1736235928::1::::<><>::
+0_Golem_Idle_014.png::CompressedTexture2D::796671373132076788::1540213826::1736235928::1::::<><>::
+0_Golem_Idle_015.png::CompressedTexture2D::3939772377663722228::1540213826::1736235928::1::::<><>::
+0_Golem_Idle_016.png::CompressedTexture2D::1227276311955052474::1540213826::1736235928::1::::<><>::
+0_Golem_Idle_017.png::CompressedTexture2D::753140729272832049::1540213826::1736235928::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle Blinking/::1736235929
+0_Golem_Idle Blinking_000.png::CompressedTexture2D::6725930869753490868::1540213826::1736235929::1::::<><>::
+0_Golem_Idle Blinking_001.png::CompressedTexture2D::6426902173674549809::1540213826::1736235929::1::::<><>::
+0_Golem_Idle Blinking_002.png::CompressedTexture2D::4592061464556248607::1540213826::1736235929::1::::<><>::
+0_Golem_Idle Blinking_003.png::CompressedTexture2D::5044667194615200242::1540213826::1736235929::1::::<><>::
+0_Golem_Idle Blinking_004.png::CompressedTexture2D::8358783735153088669::1540213828::1736235929::1::::<><>::
+0_Golem_Idle Blinking_005.png::CompressedTexture2D::8411254453734108118::1540213828::1736235929::1::::<><>::
+0_Golem_Idle Blinking_006.png::CompressedTexture2D::7477713023259387264::1540213828::1736235929::1::::<><>::
+0_Golem_Idle Blinking_007.png::CompressedTexture2D::4354803642560612265::1540213828::1736235929::1::::<><>::
+0_Golem_Idle Blinking_008.png::CompressedTexture2D::2036571960614619440::1540213828::1736235929::1::::<><>::
+0_Golem_Idle Blinking_009.png::CompressedTexture2D::6899782123449628406::1540213828::1736235929::1::::<><>::
+0_Golem_Idle Blinking_010.png::CompressedTexture2D::3659312360409784102::1540213828::1736235926::1::::<><>::
+0_Golem_Idle Blinking_011.png::CompressedTexture2D::4365345242477470566::1540213828::1736235926::1::::<><>::
+0_Golem_Idle Blinking_012.png::CompressedTexture2D::204708571892018650::1540213828::1736235926::1::::<><>::
+0_Golem_Idle Blinking_013.png::CompressedTexture2D::3477434598870936648::1540213828::1736235926::1::::<><>::
+0_Golem_Idle Blinking_014.png::CompressedTexture2D::3189934716291070515::1540213828::1736235926::1::::<><>::
+0_Golem_Idle Blinking_015.png::CompressedTexture2D::3886147698502486182::1540213828::1736235926::1::::<><>::
+0_Golem_Idle Blinking_016.png::CompressedTexture2D::8199665355605131845::1540213828::1736235926::1::::<><>::
+0_Golem_Idle Blinking_017.png::CompressedTexture2D::8301759998965761131::1540213828::1736235926::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Jump Loop/::1736235927
+0_Golem_Jump Loop_000.png::CompressedTexture2D::4187465386301466157::1540213836::1736235926::1::::<><>::
+0_Golem_Jump Loop_001.png::CompressedTexture2D::4286801293176513158::1540213836::1736235926::1::::<><>::
+0_Golem_Jump Loop_002.png::CompressedTexture2D::624844452177439403::1540213836::1736235927::1::::<><>::
+0_Golem_Jump Loop_003.png::CompressedTexture2D::8395825175000248717::1540213836::1736235927::1::::<><>::
+0_Golem_Jump Loop_004.png::CompressedTexture2D::1352201159927691107::1540213836::1736235927::1::::<><>::
+0_Golem_Jump Loop_005.png::CompressedTexture2D::6388536095282977540::1540213836::1736235927::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Jump Start/::1736235927
+0_Golem_Jump Start_000.png::CompressedTexture2D::8562994464946404441::1540213834::1736235927::1::::<><>::
+0_Golem_Jump Start_001.png::CompressedTexture2D::6897308948159247792::1540213834::1736235927::1::::<><>::
+0_Golem_Jump Start_002.png::CompressedTexture2D::7316704157204746658::1540213836::1736235927::1::::<><>::
+0_Golem_Jump Start_003.png::CompressedTexture2D::2395415114576590661::1540213836::1736235927::1::::<><>::
+0_Golem_Jump Start_004.png::CompressedTexture2D::8969629867164645022::1540213836::1736235927::1::::<><>::
+0_Golem_Jump Start_005.png::CompressedTexture2D::279996572759715169::1540213836::1736235927::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Kicking/::1736235932
+0_Golem_Kicking_000.png::CompressedTexture2D::3198599856509079504::1540213830::1736235927::1::::<><>::
+0_Golem_Kicking_001.png::CompressedTexture2D::6905530519040144407::1540213830::1736235927::1::::<><>::
+0_Golem_Kicking_002.png::CompressedTexture2D::4456422586686477083::1540213830::1736235931::1::::<><>::
+0_Golem_Kicking_003.png::CompressedTexture2D::4033634910340573700::1540213830::1736235931::1::::<><>::
+0_Golem_Kicking_004.png::CompressedTexture2D::6413626323788926037::1540213830::1736235931::1::::<><>::
+0_Golem_Kicking_005.png::CompressedTexture2D::4887875798994061052::1540213830::1736235931::1::::<><>::
+0_Golem_Kicking_006.png::CompressedTexture2D::4571554465705830881::1540213830::1736235931::1::::<><>::
+0_Golem_Kicking_007.png::CompressedTexture2D::1772242934575619501::1540213830::1736235931::1::::<><>::
+0_Golem_Kicking_008.png::CompressedTexture2D::210627179271561327::1540213830::1736235931::1::::<><>::
+0_Golem_Kicking_009.png::CompressedTexture2D::7214529481472497416::1540213830::1736235931::1::::<><>::
+0_Golem_Kicking_010.png::CompressedTexture2D::6868907618123061304::1540213830::1736235931::1::::<><>::
+0_Golem_Kicking_011.png::CompressedTexture2D::1199839640226961366::1540213830::1736235932::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Run Slashing/::1736235932
+0_Golem_Run Slashing_000.png::CompressedTexture2D::4903353426838075478::1540213832::1736235932::1::::<><>::
+0_Golem_Run Slashing_001.png::CompressedTexture2D::3287716437621842750::1540213832::1736235932::1::::<><>::
+0_Golem_Run Slashing_002.png::CompressedTexture2D::1395903340392851739::1540213832::1736235932::1::::<><>::
+0_Golem_Run Slashing_003.png::CompressedTexture2D::474839224719284865::1540213832::1736235932::1::::<><>::
+0_Golem_Run Slashing_004.png::CompressedTexture2D::4985794590453769930::1540213834::1736235932::1::::<><>::
+0_Golem_Run Slashing_005.png::CompressedTexture2D::5809669736898581885::1540213834::1736235932::1::::<><>::
+0_Golem_Run Slashing_006.png::CompressedTexture2D::8317466677318619368::1540213834::1736235932::1::::<><>::
+0_Golem_Run Slashing_007.png::CompressedTexture2D::8361164789595562162::1540213834::1736235932::1::::<><>::
+0_Golem_Run Slashing_008.png::CompressedTexture2D::565965509911075531::1540213834::1736235932::1::::<><>::
+0_Golem_Run Slashing_009.png::CompressedTexture2D::7287445132018034356::1540213834::1736235932::1::::<><>::
+0_Golem_Run Slashing_010.png::CompressedTexture2D::2026921944942071888::1540213834::1736235932::1::::<><>::
+0_Golem_Run Slashing_011.png::CompressedTexture2D::5511108123885443972::1540213834::1736235932::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Run Throwing/::1736235932
+0_Golem_Run Throwing_000.png::CompressedTexture2D::2763636974372386739::1540213834::1736235932::1::::<><>::
+0_Golem_Run Throwing_001.png::CompressedTexture2D::2021766463676972536::1540213834::1736235929::1::::<><>::
+0_Golem_Run Throwing_002.png::CompressedTexture2D::4311198538814178351::1540213834::1736235929::1::::<><>::
+0_Golem_Run Throwing_003.png::CompressedTexture2D::5211712922367789629::1540213834::1736235929::1::::<><>::
+0_Golem_Run Throwing_004.png::CompressedTexture2D::6746133404410905073::1540213834::1736235930::1::::<><>::
+0_Golem_Run Throwing_005.png::CompressedTexture2D::5726168775002875621::1540213834::1736235930::1::::<><>::
+0_Golem_Run Throwing_006.png::CompressedTexture2D::1774846585887862157::1540213834::1736235930::1::::<><>::
+0_Golem_Run Throwing_007.png::CompressedTexture2D::912810852336778838::1540213834::1736235930::1::::<><>::
+0_Golem_Run Throwing_008.png::CompressedTexture2D::2397983285372789490::1540213834::1736235930::1::::<><>::
+0_Golem_Run Throwing_009.png::CompressedTexture2D::9001701013785708653::1540213834::1736235930::1::::<><>::
+0_Golem_Run Throwing_010.png::CompressedTexture2D::659694543990975825::1540213834::1736235930::1::::<><>::
+0_Golem_Run Throwing_011.png::CompressedTexture2D::691140722646541302::1540213834::1736235930::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Running/::1736235943
+0_Golem_Running_000.png::CompressedTexture2D::1758398629043141374::1540213832::1736235930::1::::<><>::
+0_Golem_Running_001.png::CompressedTexture2D::3387973216831113066::1540213832::1736235930::1::::<><>::
+0_Golem_Running_002.png::CompressedTexture2D::330427311871877775::1540213832::1736235930::1::::<><>::
+0_Golem_Running_003.png::CompressedTexture2D::4990488610470549122::1540213832::1736235930::1::::<><>::
+0_Golem_Running_004.png::CompressedTexture2D::7564516698474308048::1540213832::1736235930::1::::<><>::
+0_Golem_Running_005.png::CompressedTexture2D::5139031328540890878::1540213832::1736235930::1::::<><>::
+0_Golem_Running_006.png::CompressedTexture2D::5740910058298272374::1540213832::1736235930::1::::<><>::
+0_Golem_Running_007.png::CompressedTexture2D::6323054932087243895::1540213832::1736235931::1::::<><>::
+0_Golem_Running_008.png::CompressedTexture2D::5779742820158551761::1540213832::1736235931::1::::<><>::
+0_Golem_Running_009.png::CompressedTexture2D::6572679024567785583::1540213832::1736235931::1::::<><>::
+0_Golem_Running_010.png::CompressedTexture2D::519147948727450394::1540213832::1736235931::1::::<><>::
+0_Golem_Running_011.png::CompressedTexture2D::3694416621820346687::1540213832::1736235943::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Slashing/::1736235944
+0_Golem_Slashing_000.png::CompressedTexture2D::229977393505670460::1540213828::1736235943::1::::<><>::
+0_Golem_Slashing_001.png::CompressedTexture2D::6302755309514803497::1540213828::1736235943::1::::<><>::
+0_Golem_Slashing_002.png::CompressedTexture2D::3894333271758335072::1540213828::1736235943::1::::<><>::
+0_Golem_Slashing_003.png::CompressedTexture2D::4698299222304850390::1540213828::1736235943::1::::<><>::
+0_Golem_Slashing_004.png::CompressedTexture2D::2913259491296050523::1540213828::1736235943::1::::<><>::
+0_Golem_Slashing_005.png::CompressedTexture2D::5889905121049098568::1540213828::1736235943::1::::<><>::
+0_Golem_Slashing_006.png::CompressedTexture2D::528760969237611546::1540213828::1736235944::1::::<><>::
+0_Golem_Slashing_007.png::CompressedTexture2D::2792862238983818198::1540213828::1736235944::1::::<><>::
+0_Golem_Slashing_008.png::CompressedTexture2D::4858788046400096584::1540213828::1736235944::1::::<><>::
+0_Golem_Slashing_009.png::CompressedTexture2D::6705809522027986260::1540213828::1736235944::1::::<><>::
+0_Golem_Slashing_010.png::CompressedTexture2D::2418311570997564040::1540213828::1736235944::1::::<><>::
+0_Golem_Slashing_011.png::CompressedTexture2D::1132967716829511193::1540213828::1736235944::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Slashing in The Air/::1736235945
+0_Golem_Slashing in The Air_000.png::CompressedTexture2D::1549937497556830842::1540213836::1736235944::1::::<><>::
+0_Golem_Slashing in The Air_001.png::CompressedTexture2D::3134515812930554346::1540213836::1736235944::1::::<><>::
+0_Golem_Slashing in The Air_002.png::CompressedTexture2D::2932222421133287450::1540213836::1736235944::1::::<><>::
+0_Golem_Slashing in The Air_003.png::CompressedTexture2D::465343553403056648::1540213836::1736235944::1::::<><>::
+0_Golem_Slashing in The Air_004.png::CompressedTexture2D::3404408811067891789::1540213836::1736235944::1::::<><>::
+0_Golem_Slashing in The Air_005.png::CompressedTexture2D::2042974837019369900::1540213836::1736235944::1::::<><>::
+0_Golem_Slashing in The Air_006.png::CompressedTexture2D::3598639337827531630::1540213836::1736235944::1::::<><>::
+0_Golem_Slashing in The Air_007.png::CompressedTexture2D::1195219372968175586::1540213836::1736235945::1::::<><>::
+0_Golem_Slashing in The Air_008.png::CompressedTexture2D::5312735523333965626::1540213836::1736235945::1::::<><>::
+0_Golem_Slashing in The Air_009.png::CompressedTexture2D::2346909638848367822::1540213836::1736235945::1::::<><>::
+0_Golem_Slashing in The Air_010.png::CompressedTexture2D::7135760906879963068::1540213836::1736235945::1::::<><>::
+0_Golem_Slashing in The Air_011.png::CompressedTexture2D::5911283523862846382::1540213836::1736235942::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Sliding/::1736235942
+0_Golem_Sliding_000.png::CompressedTexture2D::3601346716896648039::1540213834::1736235942::1::::<><>::
+0_Golem_Sliding_001.png::CompressedTexture2D::3206093922262816568::1540213834::1736235942::1::::<><>::
+0_Golem_Sliding_002.png::CompressedTexture2D::5043594843503118220::1540213834::1736235942::1::::<><>::
+0_Golem_Sliding_003.png::CompressedTexture2D::7850427793717349054::1540213834::1736235942::1::::<><>::
+0_Golem_Sliding_004.png::CompressedTexture2D::3769001101120138616::1540213834::1736235942::1::::<><>::
+0_Golem_Sliding_005.png::CompressedTexture2D::8607768290349225024::1540213834::1736235942::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Throwing/::1736235943
+0_Golem_Throwing_000.png::CompressedTexture2D::3258784135402847189::1540213828::1736235942::1::::<><>::
+0_Golem_Throwing_001.png::CompressedTexture2D::7385091281746945394::1540213828::1736235942::1::::<><>::
+0_Golem_Throwing_002.png::CompressedTexture2D::7368257345744570853::1540213828::1736235942::1::::<><>::
+0_Golem_Throwing_003.png::CompressedTexture2D::3557368377042131591::1540213830::1736235942::1::::<><>::
+0_Golem_Throwing_004.png::CompressedTexture2D::8248024706685166390::1540213830::1736235942::1::::<><>::
+0_Golem_Throwing_005.png::CompressedTexture2D::2639397746139275348::1540213830::1736235942::1::::<><>::
+0_Golem_Throwing_006.png::CompressedTexture2D::79563780978163192::1540213830::1736235943::1::::<><>::
+0_Golem_Throwing_007.png::CompressedTexture2D::4839438304688020907::1540213830::1736235943::1::::<><>::
+0_Golem_Throwing_008.png::CompressedTexture2D::4844817281779656877::1540213830::1736235943::1::::<><>::
+0_Golem_Throwing_009.png::CompressedTexture2D::3217267203778544468::1540213830::1736235943::1::::<><>::
+0_Golem_Throwing_010.png::CompressedTexture2D::4994693052435463320::1540213830::1736235943::1::::<><>::
+0_Golem_Throwing_011.png::CompressedTexture2D::7573447865393241872::1540213830::1736235943::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Throwing in The Air/::1736235946
+0_Golem_Throwing in The Air_000.png::CompressedTexture2D::6856365024819814202::1540213836::1736235943::1::::<><>::
+0_Golem_Throwing in The Air_001.png::CompressedTexture2D::8585417714832984728::1540213836::1736235943::1::::<><>::
+0_Golem_Throwing in The Air_002.png::CompressedTexture2D::7330131538018809428::1540213836::1736235943::1::::<><>::
+0_Golem_Throwing in The Air_003.png::CompressedTexture2D::3261439838802523663::1540213836::1736235943::1::::<><>::
+0_Golem_Throwing in The Air_004.png::CompressedTexture2D::107431781127038537::1540213836::1736235946::1::::<><>::
+0_Golem_Throwing in The Air_005.png::CompressedTexture2D::567944581975997992::1540213836::1736235946::1::::<><>::
+0_Golem_Throwing in The Air_006.png::CompressedTexture2D::3151140224966958768::1540213836::1736235946::1::::<><>::
+0_Golem_Throwing in The Air_007.png::CompressedTexture2D::2752004901226391886::1540213838::1736235946::1::::<><>::
+0_Golem_Throwing in The Air_008.png::CompressedTexture2D::2452015196289175157::1540213838::1736235946::1::::<><>::
+0_Golem_Throwing in The Air_009.png::CompressedTexture2D::8745174588683138913::1540213838::1736235946::1::::<><>::
+0_Golem_Throwing in The Air_010.png::CompressedTexture2D::275322473240601236::1540213838::1736235946::1::::<><>::
+0_Golem_Throwing in The Air_011.png::CompressedTexture2D::4911579140629879141::1540213838::1736235946::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Walking/::1736235947
+0_Golem_Walking_000.png::CompressedTexture2D::3223492867451263907::1540213830::1736235946::1::::<><>::
+0_Golem_Walking_001.png::CompressedTexture2D::5174291099236311289::1540213830::1736235946::1::::<><>::
+0_Golem_Walking_002.png::CompressedTexture2D::4703042507587603616::1540213830::1736235946::1::::<><>::
+0_Golem_Walking_003.png::CompressedTexture2D::4655922594517825279::1540213830::1736235946::1::::<><>::
+0_Golem_Walking_004.png::CompressedTexture2D::6079906495327323649::1540213830::1736235946::1::::<><>::
+0_Golem_Walking_005.png::CompressedTexture2D::3470289638457730140::1540213830::1736235946::1::::<><>::
+0_Golem_Walking_006.png::CompressedTexture2D::8615043054090225651::1540213830::1736235947::1::::<><>::
+0_Golem_Walking_007.png::CompressedTexture2D::5697318198088127699::1540213830::1736235947::1::::<><>::
+0_Golem_Walking_008.png::CompressedTexture2D::6421104357744034023::1540213830::1736235947::1::::<><>::
+0_Golem_Walking_009.png::CompressedTexture2D::2809120376171097352::1540213832::1736235947::1::::<><>::
+0_Golem_Walking_010.png::CompressedTexture2D::9024627922288888257::1540213832::1736235947::1::::<><>::
+0_Golem_Walking_011.png::CompressedTexture2D::5836483685384236529::1540213832::1736235945::1::::<><>::
+0_Golem_Walking_012.png::CompressedTexture2D::3258354217134739834::1540213832::1736235945::1::::<><>::
+0_Golem_Walking_013.png::CompressedTexture2D::1905650507709048386::1540213832::1736235945::1::::<><>::
+0_Golem_Walking_014.png::CompressedTexture2D::5820566729592787085::1540213832::1736235945::1::::<><>::
+0_Golem_Walking_015.png::CompressedTexture2D::3143169879776482081::1540213832::1736235945::1::::<><>::
+0_Golem_Walking_016.png::CompressedTexture2D::278239946089812820::1540213832::1736235945::1::::<><>::
+0_Golem_Walking_017.png::CompressedTexture2D::6541089763525454409::1540213832::1736235945::1::::<><>::
+0_Golem_Walking_018.png::CompressedTexture2D::2246952417446716611::1540213832::1736235945::1::::<><>::
+0_Golem_Walking_019.png::CompressedTexture2D::1313802739070447423::1540213832::1736235945::1::::<><>::
+0_Golem_Walking_020.png::CompressedTexture2D::4925116046100674747::1540213832::1736235945::1::::<><>::
+0_Golem_Walking_021.png::CompressedTexture2D::4978818216441809590::1540213832::1736235945::1::::<><>::
+0_Golem_Walking_022.png::CompressedTexture2D::7986180421536921514::1540213832::1736235945::1::::<><>::
+0_Golem_Walking_023.png::CompressedTexture2D::556183325832038638::1540213832::1736235945::1::::<><>::
+::res://assets/sprites/3golems/Golem_1/PNG/Vector Parts/::1736235945
+Body.png::CompressedTexture2D::8736143529534003532::1540210514::1736235945::1::::<><>::
+Face 01.png::CompressedTexture2D::1736360872145240191::1540210518::1736235945::1::::<><>::
+Face 02.png::CompressedTexture2D::1979707631625630076::1540210520::1736235945::1::::<><>::
+Face 03.png::CompressedTexture2D::583750567039742482::1540210524::1736235945::1::::<><>::
+Head.png::CompressedTexture2D::817838705778798281::1540212738::1736235945::1::::<><>::
+Left Arm.png::CompressedTexture2D::4675520838417604324::1540210542::1736235945::1::::<><>::
+Left Hand.png::CompressedTexture2D::3434424099398789523::1540210544::1736235945::1::::<><>::
+Left Leg.png::CompressedTexture2D::2720969474121967859::1540210546::1736235945::1::::<><>::
+Right Arm.png::CompressedTexture2D::577541380308353960::1540210528::1736235945::1::::<><>::
+Right Hand.png::CompressedTexture2D::2269079805383985568::1540210530::1736235945::1::::<><>::
+Right Leg.png::CompressedTexture2D::8102921303967189352::1540210534::1736235945::1::::<><>::
+SlashFX.png::CompressedTexture2D::5495371530773324592::1540210538::1736235937::1::::<><>::
+Sword.png::CompressedTexture2D::4306272316762977132::1540210660::1736235937::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/::1735915125
+::res://assets/sprites/3golems/Golem_2/PNG/::1542962076
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/::1542962074
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Dying/::1736235938
+0_Golem_Dying_000.png::CompressedTexture2D::5935664944376396791::1540272970::1736235937::1::::<><>::
+0_Golem_Dying_001.png::CompressedTexture2D::4628516715994950756::1540272970::1736235937::1::::<><>::
+0_Golem_Dying_002.png::CompressedTexture2D::5435450122119546592::1540272970::1736235937::1::::<><>::
+0_Golem_Dying_003.png::CompressedTexture2D::5905458065958137709::1540272970::1736235938::1::::<><>::
+0_Golem_Dying_004.png::CompressedTexture2D::2542111627706048782::1540272970::1736235938::1::::<><>::
+0_Golem_Dying_005.png::CompressedTexture2D::7097160221918673857::1540272970::1736235938::1::::<><>::
+0_Golem_Dying_006.png::CompressedTexture2D::3862855086668197363::1540272972::1736235938::1::::<><>::
+0_Golem_Dying_007.png::CompressedTexture2D::256653478934834003::1540272972::1736235938::1::::<><>::
+0_Golem_Dying_008.png::CompressedTexture2D::3991755889818699874::1540272972::1736235938::1::::<><>::
+0_Golem_Dying_009.png::CompressedTexture2D::5176907618746142928::1540272972::1736235938::1::::<><>::
+0_Golem_Dying_010.png::CompressedTexture2D::5849393216823848793::1540272972::1736235938::1::::<><>::
+0_Golem_Dying_011.png::CompressedTexture2D::8414315166863202662::1540272972::1736235938::1::::<><>::
+0_Golem_Dying_012.png::CompressedTexture2D::3991765863956234131::1540272972::1736235938::1::::<><>::
+0_Golem_Dying_013.png::CompressedTexture2D::5362099869772418413::1540272972::1736235938::1::::<><>::
+0_Golem_Dying_014.png::CompressedTexture2D::2533683038185588980::1540272972::1736235938::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Falling Down/::1736235939
+0_Golem_Falling Down_000.png::CompressedTexture2D::4335476980836744434::1540272970::1736235938::1::::<><>::
+0_Golem_Falling Down_001.png::CompressedTexture2D::2528489439749367833::1540272970::1736235939::1::::<><>::
+0_Golem_Falling Down_002.png::CompressedTexture2D::5074957921880400403::1540272970::1736235939::1::::<><>::
+0_Golem_Falling Down_003.png::CompressedTexture2D::7212372922562283887::1540272970::1736235939::1::::<><>::
+0_Golem_Falling Down_004.png::CompressedTexture2D::7962967068681892189::1540272970::1736235939::1::::<><>::
+0_Golem_Falling Down_005.png::CompressedTexture2D::210963836487912464::1540272970::1736235936::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Hurt/::1736235937
+0_Golem_Hurt_000.png::CompressedTexture2D::1563944725612201717::1540272970::1736235936::1::::<><>::
+0_Golem_Hurt_001.png::CompressedTexture2D::7210841470536312324::1540272970::1736235936::1::::<><>::
+0_Golem_Hurt_002.png::CompressedTexture2D::8664787150901025306::1540272970::1736235936::1::::<><>::
+0_Golem_Hurt_003.png::CompressedTexture2D::6646735422931086057::1540272970::1736235936::1::::<><>::
+0_Golem_Hurt_004.png::CompressedTexture2D::1650814482363948943::1540272970::1736235936::1::::<><>::
+0_Golem_Hurt_005.png::CompressedTexture2D::2884243921171903865::1540272970::1736235936::1::::<><>::
+0_Golem_Hurt_006.png::CompressedTexture2D::190401848031742408::1540272970::1736235936::1::::<><>::
+0_Golem_Hurt_007.png::CompressedTexture2D::3494545118326095124::1540272970::1736235936::1::::<><>::
+0_Golem_Hurt_008.png::CompressedTexture2D::2846520205717491233::1540272970::1736235936::1::::<><>::
+0_Golem_Hurt_009.png::CompressedTexture2D::2237665790914974531::1540272970::1736235937::1::::<><>::
+0_Golem_Hurt_010.png::CompressedTexture2D::4782000693820325590::1540272970::1736235937::1::::<><>::
+0_Golem_Hurt_011.png::CompressedTexture2D::1431094390111407336::1540272970::1736235937::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Idle/::1736235941
+0_Golem_Idle_000.png::CompressedTexture2D::2041679235554660722::1540272958::1736235937::1::::<><>::
+0_Golem_Idle_001.png::CompressedTexture2D::5173037819092381506::1540272958::1736235937::1::::<><>::
+0_Golem_Idle_002.png::CompressedTexture2D::1483076547398900931::1540272958::1736235937::1::::<><>::
+0_Golem_Idle_003.png::CompressedTexture2D::213804837241122745::1540272958::1736235937::1::::<><>::
+0_Golem_Idle_004.png::CompressedTexture2D::6857479528945295388::1540272958::1736235937::1::::<><>::
+0_Golem_Idle_005.png::CompressedTexture2D::564629362036992752::1540272958::1736235937::1::::<><>::
+0_Golem_Idle_006.png::CompressedTexture2D::2742140550027046836::1540272958::1736235937::1::::<><>::
+0_Golem_Idle_007.png::CompressedTexture2D::5990264113561823786::1540272958::1736235937::1::::<><>::
+0_Golem_Idle_008.png::CompressedTexture2D::3089123427351075145::1540272958::1736235937::1::::<><>::
+0_Golem_Idle_009.png::CompressedTexture2D::223973790822510508::1540272958::1736235940::1::::<><>::
+0_Golem_Idle_010.png::CompressedTexture2D::4327745090082050177::1540272958::1736235940::1::::<><>::
+0_Golem_Idle_011.png::CompressedTexture2D::8149324223640638905::1540272958::1736235940::1::::<><>::
+0_Golem_Idle_012.png::CompressedTexture2D::2250065726715651725::1540272958::1736235940::1::::<><>::
+0_Golem_Idle_013.png::CompressedTexture2D::4700018727045658212::1540272958::1736235941::1::::<><>::
+0_Golem_Idle_014.png::CompressedTexture2D::619452932405062041::1540272958::1736235941::1::::<><>::
+0_Golem_Idle_015.png::CompressedTexture2D::6075202322008657422::1540272958::1736235941::1::::<><>::
+0_Golem_Idle_016.png::CompressedTexture2D::5392037323592064610::1540272958::1736235941::1::::<><>::
+0_Golem_Idle_017.png::CompressedTexture2D::379951893470077620::1540272958::1736235941::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Idle Blinking/::1736235942
+0_Golem_Idle Blinking_000.png::CompressedTexture2D::5720304999532312631::1540272958::1736235941::1::::<><>::
+0_Golem_Idle Blinking_001.png::CompressedTexture2D::1249412879652623538::1540272958::1736235941::1::::<><>::
+0_Golem_Idle Blinking_002.png::CompressedTexture2D::8755442745644987909::1540272958::1736235941::1::::<><>::
+0_Golem_Idle Blinking_003.png::CompressedTexture2D::3274064906409085610::1540272958::1736235941::1::::<><>::
+0_Golem_Idle Blinking_004.png::CompressedTexture2D::6663359742626694383::1540272958::1736235941::1::::<><>::
+0_Golem_Idle Blinking_005.png::CompressedTexture2D::1765818554888956940::1540272958::1736235941::1::::<><>::
+0_Golem_Idle Blinking_006.png::CompressedTexture2D::8283183879836368327::1540272958::1736235941::1::::<><>::
+0_Golem_Idle Blinking_007.png::CompressedTexture2D::4271979013789763022::1540272960::1736235941::1::::<><>::
+0_Golem_Idle Blinking_008.png::CompressedTexture2D::4531139510058008346::1540272960::1736235941::1::::<><>::
+0_Golem_Idle Blinking_009.png::CompressedTexture2D::7864478861682111383::1540272960::1736235941::1::::<><>::
+0_Golem_Idle Blinking_010.png::CompressedTexture2D::3361818955755527396::1540272960::1736235941::1::::<><>::
+0_Golem_Idle Blinking_011.png::CompressedTexture2D::8992931898470352042::1540272960::1736235942::1::::<><>::
+0_Golem_Idle Blinking_012.png::CompressedTexture2D::8810157711394432847::1540272960::1736235942::1::::<><>::
+0_Golem_Idle Blinking_013.png::CompressedTexture2D::6251261716025041991::1540272960::1736235942::1::::<><>::
+0_Golem_Idle Blinking_014.png::CompressedTexture2D::7154438248826148369::1540272960::1736235939::1::::<><>::
+0_Golem_Idle Blinking_015.png::CompressedTexture2D::4002115109522630149::1540272960::1736235939::1::::<><>::
+0_Golem_Idle Blinking_016.png::CompressedTexture2D::121406947483970064::1540272960::1736235939::1::::<><>::
+0_Golem_Idle Blinking_017.png::CompressedTexture2D::7220904282447763582::1540272960::1736235939::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Jump Loop/::1736235939
+0_Golem_Jump Loop_000.png::CompressedTexture2D::2823594112350394866::1540272968::1736235939::1::::<><>::
+0_Golem_Jump Loop_001.png::CompressedTexture2D::1974772415241721084::1540272968::1736235939::1::::<><>::
+0_Golem_Jump Loop_002.png::CompressedTexture2D::5071913402342102163::1540272968::1736235939::1::::<><>::
+0_Golem_Jump Loop_003.png::CompressedTexture2D::8675748960194722311::1540272968::1736235939::1::::<><>::
+0_Golem_Jump Loop_004.png::CompressedTexture2D::2042502475250723122::1540272968::1736235939::1::::<><>::
+0_Golem_Jump Loop_005.png::CompressedTexture2D::6391094260736109027::1540272968::1736235939::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Jump Start/::1736235940
+0_Golem_Jump Start_000.png::CompressedTexture2D::2764688990789144626::1540272966::1736235939::1::::<><>::
+0_Golem_Jump Start_001.png::CompressedTexture2D::6417807702122112556::1540272966::1736235940::1::::<><>::
+0_Golem_Jump Start_002.png::CompressedTexture2D::6813796753366880664::1540272966::1736235940::1::::<><>::
+0_Golem_Jump Start_003.png::CompressedTexture2D::8099808438483243337::1540272968::1736235940::1::::<><>::
+0_Golem_Jump Start_004.png::CompressedTexture2D::4528352127252976813::1540272968::1736235940::1::::<><>::
+0_Golem_Jump Start_005.png::CompressedTexture2D::3243477649077563632::1540272968::1736235940::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Kicking/::1736235940
+0_Golem_Kicking_000.png::CompressedTexture2D::1439853210228188713::1540272962::1736235940::1::::<><>::
+0_Golem_Kicking_001.png::CompressedTexture2D::6428816747191724850::1540272962::1736235940::1::::<><>::
+0_Golem_Kicking_002.png::CompressedTexture2D::346011531748515111::1540272962::1736235940::1::::<><>::
+0_Golem_Kicking_003.png::CompressedTexture2D::8967331085279151498::1540272962::1736235940::1::::<><>::
+0_Golem_Kicking_004.png::CompressedTexture2D::3619172785352397320::1540272962::1736235940::1::::<><>::
+0_Golem_Kicking_005.png::CompressedTexture2D::688366129430721631::1540272962::1736235940::1::::<><>::
+0_Golem_Kicking_006.png::CompressedTexture2D::1876211950766150528::1540272962::1736235911::1::::<><>::
+0_Golem_Kicking_007.png::CompressedTexture2D::3094369186263101490::1540272962::1736235911::1::::<><>::
+0_Golem_Kicking_008.png::CompressedTexture2D::7851189875644352456::1540272962::1736235911::1::::<><>::
+0_Golem_Kicking_009.png::CompressedTexture2D::567065096507096684::1540272962::1736235911::1::::<><>::
+0_Golem_Kicking_010.png::CompressedTexture2D::1226573052878269515::1540272962::1736235911::1::::<><>::
+0_Golem_Kicking_011.png::CompressedTexture2D::8705325261360684876::1540272962::1736235911::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Run Slashing/::1736235912
+0_Golem_Run Slashing_000.png::CompressedTexture2D::1909674711601106454::1540272964::1736235911::1::::<><>::
+0_Golem_Run Slashing_001.png::CompressedTexture2D::8473465348419531150::1540272964::1736235911::1::::<><>::
+0_Golem_Run Slashing_002.png::CompressedTexture2D::6579109716278578553::1540272964::1736235911::1::::<><>::
+0_Golem_Run Slashing_003.png::CompressedTexture2D::4776251908195236063::1540272964::1736235911::1::::<><>::
+0_Golem_Run Slashing_004.png::CompressedTexture2D::409132596408343603::1540272964::1736235912::1::::<><>::
+0_Golem_Run Slashing_005.png::CompressedTexture2D::5751871777644924491::1540272966::1736235912::1::::<><>::
+0_Golem_Run Slashing_006.png::CompressedTexture2D::1720963933288813572::1540272966::1736235912::1::::<><>::
+0_Golem_Run Slashing_007.png::CompressedTexture2D::2374724424999238574::1540272966::1736235912::1::::<><>::
+0_Golem_Run Slashing_008.png::CompressedTexture2D::5700262391832110386::1540272966::1736235912::1::::<><>::
+0_Golem_Run Slashing_009.png::CompressedTexture2D::3716713698032626584::1540272966::1736235912::1::::<><>::
+0_Golem_Run Slashing_010.png::CompressedTexture2D::5023629499811655316::1540272966::1736235912::1::::<><>::
+0_Golem_Run Slashing_011.png::CompressedTexture2D::7428618449352835904::1540272966::1736235912::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Run Throwing/::1736235912
+0_Golem_Run Throwing_000.png::CompressedTexture2D::5005819763660382626::1540272966::1736235912::1::::<><>::
+0_Golem_Run Throwing_001.png::CompressedTexture2D::240598692859418946::1540272966::1736235912::1::::<><>::
+0_Golem_Run Throwing_002.png::CompressedTexture2D::4404922381995736003::1540272966::1736235912::1::::<><>::
+0_Golem_Run Throwing_003.png::CompressedTexture2D::6290396116654860154::1540272966::1736235912::1::::<><>::
+0_Golem_Run Throwing_004.png::CompressedTexture2D::2542026746132740640::1540272966::1736235912::1::::<><>::
+0_Golem_Run Throwing_005.png::CompressedTexture2D::3126972493344103069::1540272966::1736235909::1::::<><>::
+0_Golem_Run Throwing_006.png::CompressedTexture2D::3932002222954756354::1540272966::1736235910::1::::<><>::
+0_Golem_Run Throwing_007.png::CompressedTexture2D::9140151296824713626::1540272966::1736235910::1::::<><>::
+0_Golem_Run Throwing_008.png::CompressedTexture2D::859473262540105332::1540272966::1736235909::1::::<><>::
+0_Golem_Run Throwing_009.png::CompressedTexture2D::347803035692166052::1540272966::1736235909::1::::<><>::
+0_Golem_Run Throwing_010.png::CompressedTexture2D::320294903768589784::1540272966::1736235910::1::::<><>::
+0_Golem_Run Throwing_011.png::CompressedTexture2D::1735587677370212335::1540272966::1736235910::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Running/::1736235910
+0_Golem_Running_000.png::CompressedTexture2D::472376361692436770::1540272964::1736235910::1::::<><>::
+0_Golem_Running_001.png::CompressedTexture2D::8001786798364010355::1540272964::1736235910::1::::<><>::
+0_Golem_Running_002.png::CompressedTexture2D::8172644634515759122::1540272964::1736235910::1::::<><>::
+0_Golem_Running_003.png::CompressedTexture2D::6712822300324322426::1540272964::1736235910::1::::<><>::
+0_Golem_Running_004.png::CompressedTexture2D::7270837464156738807::1540272964::1736235910::1::::<><>::
+0_Golem_Running_005.png::CompressedTexture2D::6407832387387923249::1540272964::1736235910::1::::<><>::
+0_Golem_Running_006.png::CompressedTexture2D::2872346887836415089::1540272964::1736235910::1::::<><>::
+0_Golem_Running_007.png::CompressedTexture2D::7621199962021311472::1540272964::1736235910::1::::<><>::
+0_Golem_Running_008.png::CompressedTexture2D::2615528792593098981::1540272964::1736235910::1::::<><>::
+0_Golem_Running_009.png::CompressedTexture2D::8578160353477374730::1540272964::1736235910::1::::<><>::
+0_Golem_Running_010.png::CompressedTexture2D::6380623271461278030::1540272964::1736235910::1::::<><>::
+0_Golem_Running_011.png::CompressedTexture2D::2107031363070099689::1540272964::1736235910::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Slashing/::1736235914
+0_Golem_Slashing_000.png::CompressedTexture2D::6729799782210351528::1540272960::1736235911::1::::<><>::
+0_Golem_Slashing_001.png::CompressedTexture2D::3336034703570120422::1540272960::1736235911::1::::<><>::
+0_Golem_Slashing_002.png::CompressedTexture2D::8265510067834065340::1540272960::1736235911::1::::<><>::
+0_Golem_Slashing_003.png::CompressedTexture2D::2595125373507119837::1540272960::1736235914::1::::<><>::
+0_Golem_Slashing_004.png::CompressedTexture2D::2417902023637896563::1540272960::1736235914::1::::<><>::
+0_Golem_Slashing_005.png::CompressedTexture2D::486485282192512239::1540272960::1736235914::1::::<><>::
+0_Golem_Slashing_006.png::CompressedTexture2D::3061350035719248570::1540272960::1736235914::1::::<><>::
+0_Golem_Slashing_007.png::CompressedTexture2D::4824035304390423604::1540272960::1736235914::1::::<><>::
+0_Golem_Slashing_008.png::CompressedTexture2D::5079162625223984812::1540272960::1736235914::1::::<><>::
+0_Golem_Slashing_009.png::CompressedTexture2D::5236887118008749173::1540272960::1736235914::1::::<><>::
+0_Golem_Slashing_010.png::CompressedTexture2D::8692393848055731982::1540272960::1736235914::1::::<><>::
+0_Golem_Slashing_011.png::CompressedTexture2D::1748195494552037596::1540272960::1736235914::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Slashing in The Air/::1736235915
+0_Golem_Slashing in The Air_000.png::CompressedTexture2D::7803960251310873532::1540272968::1736235914::1::::<><>::
+0_Golem_Slashing in The Air_001.png::CompressedTexture2D::1970541224418020302::1540272968::1736235914::1::::<><>::
+0_Golem_Slashing in The Air_002.png::CompressedTexture2D::410248393303696125::1540272968::1736235915::1::::<><>::
+0_Golem_Slashing in The Air_003.png::CompressedTexture2D::7251808695077626839::1540272968::1736235915::1::::<><>::
+0_Golem_Slashing in The Air_004.png::CompressedTexture2D::7025581124035573726::1540272968::1736235915::1::::<><>::
+0_Golem_Slashing in The Air_005.png::CompressedTexture2D::8938289540608576392::1540272968::1736235915::1::::<><>::
+0_Golem_Slashing in The Air_006.png::CompressedTexture2D::8035293307417171782::1540272968::1736235915::1::::<><>::
+0_Golem_Slashing in The Air_007.png::CompressedTexture2D::5605254534640712512::1540272968::1736235915::1::::<><>::
+0_Golem_Slashing in The Air_008.png::CompressedTexture2D::416652563857653758::1540272968::1736235915::1::::<><>::
+0_Golem_Slashing in The Air_009.png::CompressedTexture2D::8841369861975032784::1540272968::1736235915::1::::<><>::
+0_Golem_Slashing in The Air_010.png::CompressedTexture2D::8405798489606576514::1540272968::1736235915::1::::<><>::
+0_Golem_Slashing in The Air_011.png::CompressedTexture2D::5414570856823541374::1540272968::1736235915::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Sliding/::1736235915
+0_Golem_Sliding_000.png::CompressedTexture2D::7913580832815837942::1540272966::1736235915::1::::<><>::
+0_Golem_Sliding_001.png::CompressedTexture2D::1958907565390173891::1540272966::1736235915::1::::<><>::
+0_Golem_Sliding_002.png::CompressedTexture2D::7011822989811786360::1540272966::1736235912::1::::<><>::
+0_Golem_Sliding_003.png::CompressedTexture2D::1829629029830447096::1540272966::1736235912::1::::<><>::
+0_Golem_Sliding_004.png::CompressedTexture2D::3468867335089659021::1540272966::1736235912::1::::<><>::
+0_Golem_Sliding_005.png::CompressedTexture2D::5155970327529323218::1540272966::1736235912::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Throwing/::1736235913
+0_Golem_Throwing_000.png::CompressedTexture2D::3222715182636174072::1540272960::1736235913::1::::<><>::
+0_Golem_Throwing_001.png::CompressedTexture2D::7668935767879756796::1540272960::1736235913::1::::<><>::
+0_Golem_Throwing_002.png::CompressedTexture2D::4309297035168789312::1540272960::1736235913::1::::<><>::
+0_Golem_Throwing_003.png::CompressedTexture2D::3869117215004894545::1540272960::1736235913::1::::<><>::
+0_Golem_Throwing_004.png::CompressedTexture2D::2439348534714105366::1540272960::1736235913::1::::<><>::
+0_Golem_Throwing_005.png::CompressedTexture2D::7612327979311771721::1540272960::1736235913::1::::<><>::
+0_Golem_Throwing_006.png::CompressedTexture2D::1681319926383826869::1540272962::1736235913::1::::<><>::
+0_Golem_Throwing_007.png::CompressedTexture2D::3858604269525568215::1540272962::1736235913::1::::<><>::
+0_Golem_Throwing_008.png::CompressedTexture2D::367286077286256865::1540272962::1736235913::1::::<><>::
+0_Golem_Throwing_009.png::CompressedTexture2D::8807469877629010928::1540272962::1736235913::1::::<><>::
+0_Golem_Throwing_010.png::CompressedTexture2D::4036344205165983346::1540272962::1736235913::1::::<><>::
+0_Golem_Throwing_011.png::CompressedTexture2D::414103728257539878::1540272962::1736235913::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Throwing in The Air/::1736235914
+0_Golem_Throwing in The Air_000.png::CompressedTexture2D::1088966238160095849::1540272968::1736235913::1::::<><>::
+0_Golem_Throwing in The Air_001.png::CompressedTexture2D::1415858974735416943::1540272968::1736235913::1::::<><>::
+0_Golem_Throwing in The Air_002.png::CompressedTexture2D::7477514939184260261::1540272968::1736235914::1::::<><>::
+0_Golem_Throwing in The Air_003.png::CompressedTexture2D::8551895329542140915::1540272968::1736235914::1::::<><>::
+0_Golem_Throwing in The Air_004.png::CompressedTexture2D::8599407427553852665::1540272968::1736235914::1::::<><>::
+0_Golem_Throwing in The Air_005.png::CompressedTexture2D::4921501681930510563::1540272968::1736235914::1::::<><>::
+0_Golem_Throwing in The Air_006.png::CompressedTexture2D::5098317145249558749::1540272968::1736235914::1::::<><>::
+0_Golem_Throwing in The Air_007.png::CompressedTexture2D::6412452944787195474::1540272970::1736235905::1::::<><>::
+0_Golem_Throwing in The Air_008.png::CompressedTexture2D::5285474391622551809::1540272970::1736235905::1::::<><>::
+0_Golem_Throwing in The Air_009.png::CompressedTexture2D::6034429729082320185::1540272970::1736235905::1::::<><>::
+0_Golem_Throwing in The Air_010.png::CompressedTexture2D::5415175713463550308::1540272970::1736235905::1::::<><>::
+0_Golem_Throwing in The Air_011.png::CompressedTexture2D::5954040557610070569::1540272970::1736235905::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/PNG Sequences/Walking/::1736235906
+0_Golem_Walking_000.png::CompressedTexture2D::136397315238609456::1540272962::1736235905::1::::<><>::
+0_Golem_Walking_001.png::CompressedTexture2D::5934557267318465599::1540272962::1736235905::1::::<><>::
+0_Golem_Walking_002.png::CompressedTexture2D::7656426714934396033::1540272962::1736235905::1::::<><>::
+0_Golem_Walking_003.png::CompressedTexture2D::1007593183463762964::1540272962::1736235905::1::::<><>::
+0_Golem_Walking_004.png::CompressedTexture2D::6682995360398773468::1540272962::1736235905::1::::<><>::
+0_Golem_Walking_005.png::CompressedTexture2D::8725859776462194263::1540272962::1736235905::1::::<><>::
+0_Golem_Walking_006.png::CompressedTexture2D::345964372460095437::1540272962::1736235906::1::::<><>::
+0_Golem_Walking_007.png::CompressedTexture2D::3105584696507395976::1540272962::1736235906::1::::<><>::
+0_Golem_Walking_008.png::CompressedTexture2D::7952282308499928144::1540272962::1736235906::1::::<><>::
+0_Golem_Walking_009.png::CompressedTexture2D::2655751575974030685::1540272962::1736235906::1::::<><>::
+0_Golem_Walking_010.png::CompressedTexture2D::8346418560196761815::1540272962::1736235906::1::::<><>::
+0_Golem_Walking_011.png::CompressedTexture2D::1532699909210691113::1540272964::1736235906::1::::<><>::
+0_Golem_Walking_012.png::CompressedTexture2D::7374948372300557916::1540272964::1736235906::1::::<><>::
+0_Golem_Walking_013.png::CompressedTexture2D::5527015609007357121::1540272964::1736235906::1::::<><>::
+0_Golem_Walking_014.png::CompressedTexture2D::5367114929645463889::1540272964::1736235906::1::::<><>::
+0_Golem_Walking_015.png::CompressedTexture2D::6695426428326408153::1540272964::1736235906::1::::<><>::
+0_Golem_Walking_016.png::CompressedTexture2D::6631751732708708713::1540272964::1736235906::1::::<><>::
+0_Golem_Walking_017.png::CompressedTexture2D::4966655705793737645::1540272964::1736235906::1::::<><>::
+0_Golem_Walking_018.png::CompressedTexture2D::3718228382232923737::1540272964::1736235904::1::::<><>::
+0_Golem_Walking_019.png::CompressedTexture2D::2696305399341908991::1540272964::1736235904::1::::<><>::
+0_Golem_Walking_020.png::CompressedTexture2D::5721851575765579398::1540272964::1736235904::1::::<><>::
+0_Golem_Walking_021.png::CompressedTexture2D::7548390376061059524::1540272964::1736235904::1::::<><>::
+0_Golem_Walking_022.png::CompressedTexture2D::4046059994316912113::1540272964::1736235904::1::::<><>::
+0_Golem_Walking_023.png::CompressedTexture2D::6328001897966289935::1540272964::1736235904::1::::<><>::
+::res://assets/sprites/3golems/Golem_2/PNG/Vector Parts/::1736235904
+Body.png::CompressedTexture2D::974448536762988529::1540271516::1736235904::1::::<><>::
+Face 01.png::CompressedTexture2D::8486362257152767028::1540271860::1736235904::1::::<><>::
+Face 02.png::CompressedTexture2D::3220151043420950890::1540272214::1736235904::1::::<><>::
+Face 03.png::CompressedTexture2D::3024725316413661465::1540272148::1736235904::1::::<><>::
+Head.png::CompressedTexture2D::7366498096642236041::1540271502::1736235904::1::::<><>::
+Left Arm.png::CompressedTexture2D::8829093776124029108::1540271532::1736235904::1::::<><>::
+Left Hand.png::CompressedTexture2D::7188010110581666179::1540271534::1736235904::1::::<><>::
+Left Leg.png::CompressedTexture2D::2631323253073208276::1540271536::1736235904::1::::<><>::
+Right Arm.png::CompressedTexture2D::7557994499960961584::1540271518::1736235904::1::::<><>::
+Right Hand.png::CompressedTexture2D::4653723784654784464::1540271522::1736235904::1::::<><>::
+Right Leg.png::CompressedTexture2D::8241763001698052176::1540271524::1736235904::1::::<><>::
+SlashFX.png::CompressedTexture2D::717563635703692977::1540271528::1736235904::1::::<><>::
+Sword.png::CompressedTexture2D::6613575439939166557::1540271834::1736235904::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/::1735915129
+::res://assets/sprites/3golems/Golem_3/PNG/::1542962096
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/::1542962094
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Dying/::1736235909
+0_Golem_Dying_000.png::CompressedTexture2D::2832511481870377742::1540297624::1736235905::1::::<><>::
+0_Golem_Dying_001.png::CompressedTexture2D::656534859255939895::1540297624::1736235908::1::::<><>::
+0_Golem_Dying_002.png::CompressedTexture2D::2127345788002523535::1540297624::1736235908::1::::<><>::
+0_Golem_Dying_003.png::CompressedTexture2D::6067267074755783854::1540297624::1736235908::1::::<><>::
+0_Golem_Dying_004.png::CompressedTexture2D::4256483871434662064::1540297624::1736235908::1::::<><>::
+0_Golem_Dying_005.png::CompressedTexture2D::2642595613236744980::1540297624::1736235908::1::::<><>::
+0_Golem_Dying_006.png::CompressedTexture2D::8453737963193059446::1540297624::1736235908::1::::<><>::
+0_Golem_Dying_007.png::CompressedTexture2D::6507837354375170138::1540297624::1736235908::1::::<><>::
+0_Golem_Dying_008.png::CompressedTexture2D::8233281644035957175::1540297624::1736235908::1::::<><>::
+0_Golem_Dying_009.png::CompressedTexture2D::4992195054858606795::1540297624::1736235908::1::::<><>::
+0_Golem_Dying_010.png::CompressedTexture2D::6957922346274777702::1540297624::1736235908::1::::<><>::
+0_Golem_Dying_011.png::CompressedTexture2D::443442668960780158::1540297626::1736235908::1::::<><>::
+0_Golem_Dying_012.png::CompressedTexture2D::1484115171437330244::1540297626::1736235908::1::::<><>::
+0_Golem_Dying_013.png::CompressedTexture2D::1107733569061192604::1540297626::1736235908::1::::<><>::
+0_Golem_Dying_014.png::CompressedTexture2D::6998153409034231385::1540297626::1736235909::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Falling Down/::1736235909
+0_Golem_Falling Down_000.png::CompressedTexture2D::4728783966880802852::1540297624::1736235909::1::::<><>::
+0_Golem_Falling Down_001.png::CompressedTexture2D::50471127829112186::1540297624::1736235909::1::::<><>::
+0_Golem_Falling Down_002.png::CompressedTexture2D::2816270444756561193::1540297624::1736235909::1::::<><>::
+0_Golem_Falling Down_003.png::CompressedTexture2D::5482812169782134696::1540297624::1736235909::1::::<><>::
+0_Golem_Falling Down_004.png::CompressedTexture2D::5295947641689382095::1540297624::1736235909::1::::<><>::
+0_Golem_Falling Down_005.png::CompressedTexture2D::8912301564829615888::1540297624::1736235909::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Hurt/::1736235909
+0_Golem_Hurt_000.png::CompressedTexture2D::3365281850428354844::1540297624::1736235909::1::::<><>::
+0_Golem_Hurt_001.png::CompressedTexture2D::6269877673410760181::1540297624::1736235909::1::::<><>::
+0_Golem_Hurt_002.png::CompressedTexture2D::430864403319904989::1540297624::1736235909::1::::<><>::
+0_Golem_Hurt_003.png::CompressedTexture2D::3903330342617010675::1540297624::1736235909::1::::<><>::
+0_Golem_Hurt_004.png::CompressedTexture2D::7175300497775995364::1540297624::1736235906::1::::<><>::
+0_Golem_Hurt_005.png::CompressedTexture2D::8113846232289227156::1540297624::1736235906::1::::<><>::
+0_Golem_Hurt_006.png::CompressedTexture2D::1732845213467794324::1540297624::1736235906::1::::<><>::
+0_Golem_Hurt_007.png::CompressedTexture2D::668016651427798616::1540297624::1736235906::1::::<><>::
+0_Golem_Hurt_008.png::CompressedTexture2D::5915416949894067337::1540297624::1736235907::1::::<><>::
+0_Golem_Hurt_009.png::CompressedTexture2D::8972804977576904553::1540297624::1736235906::1::::<><>::
+0_Golem_Hurt_010.png::CompressedTexture2D::7594227046811472078::1540297624::1736235907::1::::<><>::
+0_Golem_Hurt_011.png::CompressedTexture2D::3494685076529322721::1540297624::1736235907::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Idle/::1736235921
+0_Golem_Idle_000.png::CompressedTexture2D::8066925422112414887::1540297612::1736235907::1::::<><>::
+0_Golem_Idle_001.png::CompressedTexture2D::8800296812396801628::1540297612::1736235907::1::::<><>::
+0_Golem_Idle_002.png::CompressedTexture2D::5826006013779207438::1540297612::1736235907::1::::<><>::
+0_Golem_Idle_003.png::CompressedTexture2D::8272437684557667555::1540297612::1736235907::1::::<><>::
+0_Golem_Idle_004.png::CompressedTexture2D::3053216508370827216::1540297612::1736235907::1::::<><>::
+0_Golem_Idle_005.png::CompressedTexture2D::1502828700119640014::1540297612::1736235907::1::::<><>::
+0_Golem_Idle_006.png::CompressedTexture2D::6859430919198384509::1540297612::1736235907::1::::<><>::
+0_Golem_Idle_007.png::CompressedTexture2D::6448150219353040177::1540297612::1736235907::1::::<><>::
+0_Golem_Idle_008.png::CompressedTexture2D::2705630532818974972::1540297612::1736235907::1::::<><>::
+0_Golem_Idle_009.png::CompressedTexture2D::3080947970436579410::1540297612::1736235907::1::::<><>::
+0_Golem_Idle_010.png::CompressedTexture2D::8520946467542498244::1540297612::1736235908::1::::<><>::
+0_Golem_Idle_011.png::CompressedTexture2D::6980609598316401533::1540297612::1736235908::1::::<><>::
+0_Golem_Idle_012.png::CompressedTexture2D::5077650226106293360::1540297612::1736235908::1::::<><>::
+0_Golem_Idle_013.png::CompressedTexture2D::1266029223559769301::1540297612::1736235908::1::::<><>::
+0_Golem_Idle_014.png::CompressedTexture2D::8200895790631952258::1540297612::1736235908::1::::<><>::
+0_Golem_Idle_015.png::CompressedTexture2D::870318547332999559::1540297612::1736235921::1::::<><>::
+0_Golem_Idle_016.png::CompressedTexture2D::2935393786453927175::1540297612::1736235921::1::::<><>::
+0_Golem_Idle_017.png::CompressedTexture2D::203642195958709855::1540297612::1736235921::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Idle Blinking/::1736235922
+0_Golem_Idle Blinking_000.png::CompressedTexture2D::7815430685851948527::1540297612::1736235921::1::::<><>::
+0_Golem_Idle Blinking_001.png::CompressedTexture2D::8096494600365899624::1540297612::1736235921::1::::<><>::
+0_Golem_Idle Blinking_002.png::CompressedTexture2D::2090322759815559622::1540297612::1736235922::1::::<><>::
+0_Golem_Idle Blinking_003.png::CompressedTexture2D::2644587666999204094::1540297612::1736235922::1::::<><>::
+0_Golem_Idle Blinking_004.png::CompressedTexture2D::3690400601874601700::1540297612::1736235922::1::::<><>::
+0_Golem_Idle Blinking_005.png::CompressedTexture2D::5957819034418979112::1540297612::1736235922::1::::<><>::
+0_Golem_Idle Blinking_006.png::CompressedTexture2D::6026766724412450267::1540297612::1736235922::1::::<><>::
+0_Golem_Idle Blinking_007.png::CompressedTexture2D::8254060806129923373::1540297612::1736235922::1::::<><>::
+0_Golem_Idle Blinking_008.png::CompressedTexture2D::287375383023196480::1540297614::1736235922::1::::<><>::
+0_Golem_Idle Blinking_009.png::CompressedTexture2D::2779051795311957955::1540297614::1736235922::1::::<><>::
+0_Golem_Idle Blinking_010.png::CompressedTexture2D::3386561997306138638::1540297614::1736235922::1::::<><>::
+0_Golem_Idle Blinking_011.png::CompressedTexture2D::4549338910934159257::1540297614::1736235922::1::::<><>::
+0_Golem_Idle Blinking_012.png::CompressedTexture2D::7186926567813311312::1540297614::1736235922::1::::<><>::
+0_Golem_Idle Blinking_013.png::CompressedTexture2D::5142770336374466952::1540297614::1736235922::1::::<><>::
+0_Golem_Idle Blinking_014.png::CompressedTexture2D::7491078824335766443::1540297614::1736235922::1::::<><>::
+0_Golem_Idle Blinking_015.png::CompressedTexture2D::7115543924959086094::1540297614::1736235922::1::::<><>::
+0_Golem_Idle Blinking_016.png::CompressedTexture2D::2448777367596792382::1540297614::1736235922::1::::<><>::
+0_Golem_Idle Blinking_017.png::CompressedTexture2D::8796074449621032006::1540297614::1736235922::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Jump Loop/::1736235923
+0_Golem_Jump Loop_000.png::CompressedTexture2D::5467872472474153698::1540297622::1736235923::1::::<><>::
+0_Golem_Jump Loop_001.png::CompressedTexture2D::6504926265855704503::1540297622::1736235923::1::::<><>::
+0_Golem_Jump Loop_002.png::CompressedTexture2D::7668929624839276991::1540297622::1736235920::1::::<><>::
+0_Golem_Jump Loop_003.png::CompressedTexture2D::8691629218990620288::1540297622::1736235920::1::::<><>::
+0_Golem_Jump Loop_004.png::CompressedTexture2D::3706237522993685567::1540297622::1736235920::1::::<><>::
+0_Golem_Jump Loop_005.png::CompressedTexture2D::9169425119248666525::1540297622::1736235920::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Jump Start/::1736235920
+0_Golem_Jump Start_000.png::CompressedTexture2D::6998028923139052922::1540297620::1736235920::1::::<><>::
+0_Golem_Jump Start_001.png::CompressedTexture2D::8003407462286537657::1540297620::1736235920::1::::<><>::
+0_Golem_Jump Start_002.png::CompressedTexture2D::6396762230240441344::1540297620::1736235920::1::::<><>::
+0_Golem_Jump Start_003.png::CompressedTexture2D::3744564204391168887::1540297620::1736235920::1::::<><>::
+0_Golem_Jump Start_004.png::CompressedTexture2D::4226367209535930898::1540297620::1736235920::1::::<><>::
+0_Golem_Jump Start_005.png::CompressedTexture2D::5174743008781968082::1540297620::1736235920::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Kicking/::1736235921
+0_Golem_Kicking_000.png::CompressedTexture2D::4384286501975437394::1540297616::1736235920::1::::<><>::
+0_Golem_Kicking_001.png::CompressedTexture2D::4721871871771117587::1540297616::1736235920::1::::<><>::
+0_Golem_Kicking_002.png::CompressedTexture2D::8429562051387181114::1540297616::1736235920::1::::<><>::
+0_Golem_Kicking_003.png::CompressedTexture2D::8576998077587775048::1540297616::1736235921::1::::<><>::
+0_Golem_Kicking_004.png::CompressedTexture2D::8493125386216052285::1540297616::1736235921::1::::<><>::
+0_Golem_Kicking_005.png::CompressedTexture2D::4160736555904111479::1540297616::1736235921::1::::<><>::
+0_Golem_Kicking_006.png::CompressedTexture2D::8078692941433424296::1540297616::1736235921::1::::<><>::
+0_Golem_Kicking_007.png::CompressedTexture2D::2520404491233130306::1540297616::1736235921::1::::<><>::
+0_Golem_Kicking_008.png::CompressedTexture2D::8895375267957029097::1540297616::1736235921::1::::<><>::
+0_Golem_Kicking_009.png::CompressedTexture2D::4050574306874685582::1540297616::1736235921::1::::<><>::
+0_Golem_Kicking_010.png::CompressedTexture2D::9196282459783576185::1540297616::1736235921::1::::<><>::
+0_Golem_Kicking_011.png::CompressedTexture2D::626929178786168625::1540297616::1736235921::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Run Slashing/::1736235925
+0_Golem_Run Slashing_000.png::CompressedTexture2D::3332485436045357642::1540297618::1736235924::1::::<><>::
+0_Golem_Run Slashing_001.png::CompressedTexture2D::2692137545075176997::1540297618::1736235924::1::::<><>::
+0_Golem_Run Slashing_002.png::CompressedTexture2D::94314803378193176::1540297618::1736235924::1::::<><>::
+0_Golem_Run Slashing_003.png::CompressedTexture2D::2102190171877275262::1540297618::1736235924::1::::<><>::
+0_Golem_Run Slashing_004.png::CompressedTexture2D::4639943548178144682::1540297618::1736235924::1::::<><>::
+0_Golem_Run Slashing_005.png::CompressedTexture2D::5612656774625517559::1540297618::1736235925::1::::<><>::
+0_Golem_Run Slashing_006.png::CompressedTexture2D::5645628631096961684::1540297618::1736235925::1::::<><>::
+0_Golem_Run Slashing_007.png::CompressedTexture2D::9934943245923749::1540297620::1736235925::1::::<><>::
+0_Golem_Run Slashing_008.png::CompressedTexture2D::2386569313859281547::1540297620::1736235925::1::::<><>::
+0_Golem_Run Slashing_009.png::CompressedTexture2D::3547127279334124945::1540297620::1736235925::1::::<><>::
+0_Golem_Run Slashing_010.png::CompressedTexture2D::1981692461156516451::1540297620::1736235925::1::::<><>::
+0_Golem_Run Slashing_011.png::CompressedTexture2D::7694270348564836343::1540297620::1736235925::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Run Throwing/::1736235926
+0_Golem_Run Throwing_000.png::CompressedTexture2D::8475225894157678780::1540297620::1736235925::1::::<><>::
+0_Golem_Run Throwing_001.png::CompressedTexture2D::8665396369145894560::1540297620::1736235925::1::::<><>::
+0_Golem_Run Throwing_002.png::CompressedTexture2D::41808655463438732::1540297620::1736235925::1::::<><>::
+0_Golem_Run Throwing_003.png::CompressedTexture2D::7085669062105545894::1540297620::1736235925::1::::<><>::
+0_Golem_Run Throwing_004.png::CompressedTexture2D::6433105879942999779::1540297620::1736235925::1::::<><>::
+0_Golem_Run Throwing_005.png::CompressedTexture2D::8218245721267385223::1540297620::1736235925::1::::<><>::
+0_Golem_Run Throwing_006.png::CompressedTexture2D::574566823100854134::1540297620::1736235925::1::::<><>::
+0_Golem_Run Throwing_007.png::CompressedTexture2D::6180691495855207762::1540297620::1736235925::1::::<><>::
+0_Golem_Run Throwing_008.png::CompressedTexture2D::6263645113722591698::1540297620::1736235925::1::::<><>::
+0_Golem_Run Throwing_009.png::CompressedTexture2D::7743084340948748595::1540297620::1736235926::1::::<><>::
+0_Golem_Run Throwing_010.png::CompressedTexture2D::8139584584649274086::1540297620::1736235926::1::::<><>::
+0_Golem_Run Throwing_011.png::CompressedTexture2D::8644362328729603189::1540297620::1736235923::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Running/::1736235923
+0_Golem_Running_000.png::CompressedTexture2D::2263923542845276237::1540297618::1736235923::1::::<><>::
+0_Golem_Running_001.png::CompressedTexture2D::2161791279885407674::1540297618::1736235923::1::::<><>::
+0_Golem_Running_002.png::CompressedTexture2D::7438382869159094008::1540297618::1736235923::1::::<><>::
+0_Golem_Running_003.png::CompressedTexture2D::5983836605809649479::1540297618::1736235923::1::::<><>::
+0_Golem_Running_004.png::CompressedTexture2D::2340911318343591859::1540297618::1736235923::1::::<><>::
+0_Golem_Running_005.png::CompressedTexture2D::5766459382274944601::1540297618::1736235923::1::::<><>::
+0_Golem_Running_006.png::CompressedTexture2D::8737375849874982658::1540297618::1736235923::1::::<><>::
+0_Golem_Running_007.png::CompressedTexture2D::8441107077451719475::1540297618::1736235923::1::::<><>::
+0_Golem_Running_008.png::CompressedTexture2D::2719534247044755590::1540297618::1736235923::1::::<><>::
+0_Golem_Running_009.png::CompressedTexture2D::1018424459075261942::1540297618::1736235923::1::::<><>::
+0_Golem_Running_010.png::CompressedTexture2D::862168526124397050::1540297618::1736235923::1::::<><>::
+0_Golem_Running_011.png::CompressedTexture2D::5737784950649536038::1540297618::1736235923::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Slashing/::1736235924
+0_Golem_Slashing_000.png::CompressedTexture2D::5576553746323503960::1540297614::1736235924::1::::<><>::
+0_Golem_Slashing_001.png::CompressedTexture2D::4233691503619911083::1540297614::1736235924::1::::<><>::
+0_Golem_Slashing_002.png::CompressedTexture2D::6236164579067378646::1540297614::1736235924::1::::<><>::
+0_Golem_Slashing_003.png::CompressedTexture2D::5896059891834899182::1540297614::1736235924::1::::<><>::
+0_Golem_Slashing_004.png::CompressedTexture2D::58214583074536594::1540297614::1736235924::1::::<><>::
+0_Golem_Slashing_005.png::CompressedTexture2D::7028678759281775721::1540297614::1736235924::1::::<><>::
+0_Golem_Slashing_006.png::CompressedTexture2D::2443243800656958758::1540297614::1736235924::1::::<><>::
+0_Golem_Slashing_007.png::CompressedTexture2D::4981285401497852449::1540297614::1736235924::1::::<><>::
+0_Golem_Slashing_008.png::CompressedTexture2D::4692698578493489762::1540297614::1736235924::1::::<><>::
+0_Golem_Slashing_009.png::CompressedTexture2D::6093191887992187520::1540297614::1736235924::1::::<><>::
+0_Golem_Slashing_010.png::CompressedTexture2D::4305286128175282708::1540297614::1736235917::1::::<><>::
+0_Golem_Slashing_011.png::CompressedTexture2D::8907398976323043626::1540297614::1736235917::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Slashing in The Air/::1736235918
+0_Golem_Slashing in The Air_000.png::CompressedTexture2D::8216795325969872242::1540297622::1736235917::1::::<><>::
+0_Golem_Slashing in The Air_001.png::CompressedTexture2D::1463106104797395472::1540297622::1736235917::1::::<><>::
+0_Golem_Slashing in The Air_002.png::CompressedTexture2D::3735581772014179552::1540297622::1736235917::1::::<><>::
+0_Golem_Slashing in The Air_003.png::CompressedTexture2D::8332544686926557807::1540297622::1736235917::1::::<><>::
+0_Golem_Slashing in The Air_004.png::CompressedTexture2D::3874450919000261439::1540297622::1736235917::1::::<><>::
+0_Golem_Slashing in The Air_005.png::CompressedTexture2D::3175009421654505440::1540297622::1736235917::1::::<><>::
+0_Golem_Slashing in The Air_006.png::CompressedTexture2D::1979750110418190104::1540297622::1736235917::1::::<><>::
+0_Golem_Slashing in The Air_007.png::CompressedTexture2D::397096680964690209::1540297622::1736235917::1::::<><>::
+0_Golem_Slashing in The Air_008.png::CompressedTexture2D::5061824171504612371::1540297622::1736235917::1::::<><>::
+0_Golem_Slashing in The Air_009.png::CompressedTexture2D::4136818358787034021::1540297622::1736235917::1::::<><>::
+0_Golem_Slashing in The Air_010.png::CompressedTexture2D::3691539666930995775::1540297622::1736235918::1::::<><>::
+0_Golem_Slashing in The Air_011.png::CompressedTexture2D::6878581218055536622::1540297622::1736235918::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Sliding/::1736235918
+0_Golem_Sliding_000.png::CompressedTexture2D::1310155154501030397::1540297620::1736235918::1::::<><>::
+0_Golem_Sliding_001.png::CompressedTexture2D::2665360768574745273::1540297620::1736235918::1::::<><>::
+0_Golem_Sliding_002.png::CompressedTexture2D::7097592854890178981::1540297620::1736235918::1::::<><>::
+0_Golem_Sliding_003.png::CompressedTexture2D::8048513297148485099::1540297620::1736235918::1::::<><>::
+0_Golem_Sliding_004.png::CompressedTexture2D::5802287991445114016::1540297620::1736235918::1::::<><>::
+0_Golem_Sliding_005.png::CompressedTexture2D::8260267019544668861::1540297620::1736235918::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Throwing/::1736235918
+0_Golem_Throwing_000.png::CompressedTexture2D::3225152368204202403::1540297614::1736235918::1::::<><>::
+0_Golem_Throwing_001.png::CompressedTexture2D::4669983442889304198::1540297614::1736235918::1::::<><>::
+0_Golem_Throwing_002.png::CompressedTexture2D::2849770827511737858::1540297614::1736235918::1::::<><>::
+0_Golem_Throwing_003.png::CompressedTexture2D::1444931813981138303::1540297614::1736235915::1::::<><>::
+0_Golem_Throwing_004.png::CompressedTexture2D::8168275498998257246::1540297614::1736235915::1::::<><>::
+0_Golem_Throwing_005.png::CompressedTexture2D::6251026872921042683::1540297614::1736235915::1::::<><>::
+0_Golem_Throwing_006.png::CompressedTexture2D::4514386639959158013::1540297616::1736235916::1::::<><>::
+0_Golem_Throwing_007.png::CompressedTexture2D::6773329804222710082::1540297616::1736235916::1::::<><>::
+0_Golem_Throwing_008.png::CompressedTexture2D::26802754602028607::1540297616::1736235916::1::::<><>::
+0_Golem_Throwing_009.png::CompressedTexture2D::2802715877708463259::1540297616::1736235916::1::::<><>::
+0_Golem_Throwing_010.png::CompressedTexture2D::8051349468620833759::1540297616::1736235916::1::::<><>::
+0_Golem_Throwing_011.png::CompressedTexture2D::2318135309815788229::1540297616::1736235916::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Throwing in The Air/::1736235917
+0_Golem_Throwing in The Air_000.png::CompressedTexture2D::270321302054831535::1540297622::1736235916::1::::<><>::
+0_Golem_Throwing in The Air_001.png::CompressedTexture2D::5455641671507829269::1540297622::1736235916::1::::<><>::
+0_Golem_Throwing in The Air_002.png::CompressedTexture2D::6524246059652862555::1540297622::1736235916::1::::<><>::
+0_Golem_Throwing in The Air_003.png::CompressedTexture2D::6359998056139249522::1540297622::1736235916::1::::<><>::
+0_Golem_Throwing in The Air_004.png::CompressedTexture2D::5748930090672225249::1540297622::1736235916::1::::<><>::
+0_Golem_Throwing in The Air_005.png::CompressedTexture2D::4396486323275634485::1540297622::1736235916::1::::<><>::
+0_Golem_Throwing in The Air_006.png::CompressedTexture2D::4197105284124231211::1540297622::1736235916::1::::<><>::
+0_Golem_Throwing in The Air_007.png::CompressedTexture2D::8095097300058270915::1540297622::1736235916::1::::<><>::
+0_Golem_Throwing in The Air_008.png::CompressedTexture2D::1242035765272344656::1540297622::1736235916::1::::<><>::
+0_Golem_Throwing in The Air_009.png::CompressedTexture2D::6742400153706953969::1540297622::1736235916::1::::<><>::
+0_Golem_Throwing in The Air_010.png::CompressedTexture2D::254294181479185485::1540297622::1736235916::1::::<><>::
+0_Golem_Throwing in The Air_011.png::CompressedTexture2D::7314304949045236616::1540297624::1736235917::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/PNG Sequences/Walking/::1736235920
+0_Golem_Walking_000.png::CompressedTexture2D::3345694365804944884::1540297616::1736235917::1::::<><>::
+0_Golem_Walking_001.png::CompressedTexture2D::4634607788140387225::1540297616::1736235918::1::::<><>::
+0_Golem_Walking_002.png::CompressedTexture2D::8584228043315401628::1540297616::1736235918::1::::<><>::
+0_Golem_Walking_003.png::CompressedTexture2D::3285881815115786627::1540297616::1736235918::1::::<><>::
+0_Golem_Walking_004.png::CompressedTexture2D::5760119881754755136::1540297616::1736235918::1::::<><>::
+0_Golem_Walking_005.png::CompressedTexture2D::8600227643111213640::1540297616::1736235918::1::::<><>::
+0_Golem_Walking_006.png::CompressedTexture2D::8680197547672848811::1540297616::1736235919::1::::<><>::
+0_Golem_Walking_007.png::CompressedTexture2D::3895817137473427901::1540297616::1736235919::1::::<><>::
+0_Golem_Walking_008.png::CompressedTexture2D::8969758209607907116::1540297616::1736235919::1::::<><>::
+0_Golem_Walking_009.png::CompressedTexture2D::5442917024477053677::1540297616::1736235919::1::::<><>::
+0_Golem_Walking_010.png::CompressedTexture2D::7739767520567657934::1540297616::1736235919::1::::<><>::
+0_Golem_Walking_011.png::CompressedTexture2D::4167711567380056271::1540297616::1736235919::1::::<><>::
+0_Golem_Walking_012.png::CompressedTexture2D::5705594531091765147::1540297616::1736235919::1::::<><>::
+0_Golem_Walking_013.png::CompressedTexture2D::760728060805259067::1540297618::1736235919::1::::<><>::
+0_Golem_Walking_014.png::CompressedTexture2D::60116966196589154::1540297618::1736235919::1::::<><>::
+0_Golem_Walking_015.png::CompressedTexture2D::280059771427186594::1540297618::1736235919::1::::<><>::
+0_Golem_Walking_016.png::CompressedTexture2D::5604912744546171811::1540297618::1736235919::1::::<><>::
+0_Golem_Walking_017.png::CompressedTexture2D::6314925235731852311::1540297618::1736235919::1::::<><>::
+0_Golem_Walking_018.png::CompressedTexture2D::3176414658643705730::1540297618::1736235919::1::::<><>::
+0_Golem_Walking_019.png::CompressedTexture2D::4859340777072115227::1540297618::1736235919::1::::<><>::
+0_Golem_Walking_020.png::CompressedTexture2D::1246075811156609725::1540297618::1736235920::1::::<><>::
+0_Golem_Walking_021.png::CompressedTexture2D::7806635922159924568::1540297618::1736235920::1::::<><>::
+0_Golem_Walking_022.png::CompressedTexture2D::4561357540873357939::1540297618::1736235920::1::::<><>::
+0_Golem_Walking_023.png::CompressedTexture2D::2250060993167791160::1540297618::1736235920::1::::<><>::
+::res://assets/sprites/3golems/Golem_3/PNG/Vector Parts/::1736235918
+Body.png::CompressedTexture2D::252832161997290648::1540297314::1736235918::1::::<><>::
+Face 01.png::CompressedTexture2D::8954929956394073670::1540297420::1736235918::1::::<><>::
+Face 02.png::CompressedTexture2D::5157447100755803260::1540296010::1736235918::1::::<><>::
+Face 03.png::CompressedTexture2D::205845087153156610::1540296012::1736235918::1::::<><>::
+Head.png::CompressedTexture2D::3092213352423275331::1540295986::1736235918::1::::<><>::
+Left Arm.png::CompressedTexture2D::8259795956531742667::1540296016::1736235918::1::::<><>::
+Left Hand.png::CompressedTexture2D::8205435963516256682::1540297364::1736235918::1::::<><>::
+Left Leg.png::CompressedTexture2D::5528601283798723608::1540296658::1736235918::1::::<><>::
+Right Arm.png::CompressedTexture2D::5839573831535766323::1540295994::1736235918::1::::<><>::
+Right Hand.png::CompressedTexture2D::7401723258334167228::1540297340::1736235918::1::::<><>::
+Right Leg.png::CompressedTexture2D::7263502392662484813::1540296624::1736235918::1::::<><>::
+SlashFX.png::CompressedTexture2D::4859274251807534785::1540295652::1736235918::1::::<><>::
+Sword.png::CompressedTexture2D::8143117833293990547::1540296024::1736235918::1::::<><>::
+::res://assets/sprites/Knight/::1736235918
+coin.png::CompressedTexture2D::2181299801678395928::1709898410::1736235918::1::::<><>::
+fruit.png::CompressedTexture2D::3278408854562106478::1709903822::1736235918::1::::<><>::
+knight.png::CompressedTexture2D::3809608518730042368::1709901920::1736235918::1::::<><>::
+platforms.png::CompressedTexture2D::3509381919017359159::1709903918::1736235918::1::::<><>::
+slime_green.png::CompressedTexture2D::8377116094890278330::1709899516::1736235918::1::::<><>::
+slime_purple.png::CompressedTexture2D::4473965167863283124::1709899940::1736235918::1::::<><>::
+world_tileset.png::CompressedTexture2D::4442163409528748736::1709904436::1736235918::1::::<><>::
+::res://scenes/::1736237131
+coin.tscn::PackedScene::1201618145665478338::1736004139::0::1::::<><>::res://scripts/coin.gd<>uid://6cvxosdkh70o::::res://assets/sprites/YoutuberLeDeko/coin.png<>uid://djsdq1qekdrxt::::res://assets/sounds/coin.wav
+game.tscn::PackedScene::2958466398028621276::1736237131::0::1::::<><>::res://scenes/game_manager.gd<>uid://bv8qpbslbv75q::::res://scenes/player.tscn<>uid://b4j21unmd66cy::::res://assets/sprites/Knight/world_tileset.png<>uid://pvvqqdtg1xkt::::res://assets/fonts/PixelOperator8-Bold.ttf<>uid://76eg6djp6icd::::res://assets/background/NatureBackground/nature_1/orig.png<>uid://csmymkaja6gak::::res://scenes/platform.tscn<>uid://dc1ge6x5qd0yi::::res://assets/background/NatureBackground/nature_2/orig.png<>uid://recqfphf31h3::::res://scenes/coin.tscn<>uid://bt3ybxs3wv1ul::::res://assets/background/NatureBackground/nature_3/orig.png<>uid://bmfj0jo1ff6q0::::res://scenes/killzone.tscn<>uid://cp363u8y545xa::::res://assets/background/NatureBackground/nature_4/orig.png<>uid://boxn0cnuy3wcc::::res://assets/background/NatureBackground/nature_5/orig.png<>uid://ceoeu2xgit5mt::::res://assets/background/NatureBackground/nature_6/orig.png<>uid://duqbprv3wjmyc::::res://assets/background/NatureBackground/nature_7/orig.png<>uid://dk6lnrfvwfg84::::res://assets/background/NatureBackground/nature_8/orig.png<>uid://befsdhr6y3373::::res://scenes/purple_slime.tscn<>uid://katy4lwaosqa::::res://assets/fonts/PixelOperator8.ttf<>uid://bitdxn7xjnmw4::::res://assets/music/time_for_adventure.mp3<>uid://idifcqwi34m::::res://scenes/touchcontrols.tscn
+game_manager.gd::GDScript::-1::1736000019::0::1::::<>Node<>::
+killzone.tscn::PackedScene::3239600289427957869::1735994816::0::1::::<><>::res://scripts/killzone.gd
+platform.tscn::PackedScene::6062492248916401850::1736000277::0::1::::<><>::uid://bp88aiv7ud4x4::::res://assets/sprites/YoutuberLeDeko/platforms.png
+player.tscn::PackedScene::3929509205600409636::1736060863::0::1::::<><>::uid://cm04cl8a5mknk::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_000.png<>res://scripts/player.gd<>uid://bfnftc317pyc8::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_001.png<>uid://dwvd7jeypkqb8::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/0_Golem_Dying_000.png<>uid://cf21gal7rtmwr::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_002.png<>uid://bekuvtsu2idbq::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/0_Golem_Dying_001.png<>uid://xaquibp47pae::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/0_Golem_Dying_002.png<>uid://cw6c46uh2imsp::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_003.png<>uid://b15534kxt1xqh::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_004.png<>uid://bwsdhvdoor1yh::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/0_Golem_Dying_003.png<>uid://dw4gcnwrbfyyh::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/0_Golem_Dying_004.png<>uid://dqfroi0ucvffs::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_005.png<>uid://ccdaekbtemi6l::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_006.png<>uid://bsjnod42lk674::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/0_Golem_Dying_005.png<>uid://bnhaxrnix8a1a::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/0_Golem_Dying_006.png<>uid://dj2dqpik2yau6::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_007.png<>uid://m4kl53rebwwb::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_008.png<>uid://bbt8vo3selnb2::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/0_Golem_Dying_007.png<>uid://dvo7ny47cb6up::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_009.png<>uid://c8pd6los8vnrf::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/0_Golem_Dying_008.png<>uid://dcxiensev0l27::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_010.png<>uid://td025yi6twhf::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/0_Golem_Dying_009.png<>uid://ditn1reeyt2ke::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_011.png<>uid://032tmjqdo6b6::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/0_Golem_Dying_010.png<>uid://tbiu05vi3uj2::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/0_Golem_Dying_011.png<>uid://ipxdikpraaus::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_012.png<>uid://bnqv1qusu4eix::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/0_Golem_Dying_012.png<>uid://tkw6844b5tw4::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_013.png<>uid://ll6ccwjkuxqy::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_014.png<>uid://buo0yffmrem1a::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/0_Golem_Dying_013.png<>uid://3t313qwhhwjl::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Dying/0_Golem_Dying_014.png<>uid://bwepqfvf4db2s::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_015.png<>uid://rqrcdfgi83u1::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_016.png<>uid://ky3eafcfkv66::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Idle/0_Golem_Idle_017.png<>uid://dt88jdsmygllh::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Jump Start/0_Golem_Jump Start_000.png<>uid://c5jdw2j5dolv1::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Jump Start/0_Golem_Jump Start_001.png<>uid://dcijbwbwwpsww::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Jump Start/0_Golem_Jump Start_002.png<>uid://baemewlf8pnx2::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Jump Start/0_Golem_Jump Start_003.png<>uid://d017q1n5eadgg::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Jump Start/0_Golem_Jump Start_004.png<>uid://d8vrdb8cg4q4::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Jump Start/0_Golem_Jump Start_005.png<>uid://0b1tlg6f75ru::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Running/0_Golem_Running_000.png<>uid://bojfooawkrf8m::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Running/0_Golem_Running_001.png<>uid://eycdbrxsyy20::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Running/0_Golem_Running_002.png<>uid://cddova0p1ygoo::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Running/0_Golem_Running_003.png<>uid://df1kqqp6lhdym::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Running/0_Golem_Running_004.png<>uid://cfhndiaewmnw5::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Running/0_Golem_Running_005.png<>uid://cn167kc8gwn5w::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Running/0_Golem_Running_006.png<>uid://cwc615km81x3d::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Running/0_Golem_Running_007.png<>uid://col0rw55gt1uj::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Running/0_Golem_Running_008.png<>uid://c0v4cfee405gt::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Running/0_Golem_Running_009.png<>uid://hnqj5iie7li5::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Running/0_Golem_Running_010.png<>uid://bsvurckvfdga6::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Running/0_Golem_Running_011.png<>uid://brkrwilgp4mc2::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Sliding/0_Golem_Sliding_000.png<>uid://blxb5sv83cjkq::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Sliding/0_Golem_Sliding_001.png<>uid://cd4fjglyca621::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Sliding/0_Golem_Sliding_002.png<>uid://dj32ntapxr44y::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Sliding/0_Golem_Sliding_003.png<>uid://btxy5rqpqttye::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Sliding/0_Golem_Sliding_004.png<>uid://duvwxlfybrnum::::res://assets/sprites/3golems/Golem_1/PNG/PNG Sequences/Sliding/0_Golem_Sliding_005.png
+purple_slime.tscn::PackedScene::2678596605633870796::1736000277::0::1::::<><>::res://scripts/purple_slime.gd<>uid://b40hs1400jnrg::::res://assets/sprites/YoutuberLeDeko/slime_purple.png<>uid://bmfj0jo1ff6q0::::res://scenes/killzone.tscn
+touchcontrols.tscn::PackedScene::16711725825090294::1736060863::0::1::::<><>::uid://ckx4qc6o7du1a::::res://assets/transparentLight22.png<>uid://sngeedx7v3t4::::res://assets/transparentLight23.png<>uid://dg0t150v0bvw3::::res://assets/transparentLight24.png
+::res://scripts/::1736236980
+coin.gd::GDScript::-1::1736056965::0::1::::<>Area2D<>::
+Global.gd::GDScript::-1::1736236980::0::1::::<>Node<>::
+killzone.gd::GDScript::-1::1735989601::0::1::::<>Area2D<>::
+player.gd::GDScript::-1::1736003260::0::1::::<>CharacterBody2D<>::
+purple_slime.gd::GDScript::-1::1735981354::0::1::::<>Node2D<>::
